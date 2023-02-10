@@ -12,7 +12,6 @@ public class Baekjoon2562 {
         int count = 0;
         int position = 0;
         int[] array = new int[9];
-        List<int[]> hohoho = List.of(array);
 
         while (true){
             if (count > array.length-1){
